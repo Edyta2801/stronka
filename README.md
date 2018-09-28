@@ -1,0 +1,1 @@
+Jest to przykładowa statyczna stronka w HTML.Początek nauki.Przykład z książki Damiana Wielgosika
